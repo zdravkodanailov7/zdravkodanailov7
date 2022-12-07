@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zdravko Danailov</h1>
 <h3 align="center">A student and a passionate software engineer from the UK</h3>
 
-- 🔭 I’m currently working on **VisChat**
+- 🔭 I’m currently working on a **Business Intelligence Web App** called **TipTop**
 
 - 👯 I’m studying **Further Mathematics** and **Computer Science** in Sixth Form
 
